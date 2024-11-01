@@ -85,13 +85,13 @@ Brad Travercy>
 64. Aggregate - Calculate Average Rating <https://youtu.be/7ylPmMwmB20>
 65. Update & Delete Reviews <https://youtu.be/8J_6lUPWxmo>
 
-##10. API Security
+## 10. API Security
 66. Logout To Clear Token Cookie <https://youtu.be/YUPNq60-mZc>
 67. Prevent NoSQL Injection & Sanitize Data <https://youtu.be/V-70-TFE7sA>
 68. XSS Protection & Security Headers <https://youtu.be/MuwqksHfuuE>
 69. Rate Limiting, HPP & CORS <https://youtu.be/Rub2CZnmEQs>
 
-##11. Documentation & Deploy
+## 11. Documentation & Deploy
 70. Documentation With Postman & Docgen <https://youtu.be/eQt18u4v28A>
 71. Digital Ocean Droplet & Server Log In <https://youtu.be/m5huJtuQ6No>
 72. Prepare & Push To Github <https://youtu.be/gVgSYebeSq0>
